@@ -45,6 +45,3 @@ This repository serves as documentation of my learning achievement and as a port
 More Python-related projects and practice files will be added as I continue learning.
 
 ---
-
-
-Cukup bilang, nanti saya buatkan.
